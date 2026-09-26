@@ -27,3 +27,6 @@ O programa solicita dados como nome, idade e a nota de avaliação do cliente, v
 # Nota: Se digitares qualquer outro número, o programa vai avisar que a opção é inválida e pedir para digitares novamente.
 
 Após responderes a todos os entrevistados, o programa exibe automaticamente o resumo final com a contagem total das respostas.
+
+# Print
+<img width="1440" height="861" alt="Captura de Tela (20)" src="https://github.com/user-attachments/assets/054ca5cd-6abe-4333-a43b-911f4161f4d3" />
